@@ -14,7 +14,9 @@ $ ember server
 - [http://localhost:4200](http://localhost:4200)
 - Ember Inspector
 
+```
 $ ember g template application
+```
 
 ## 2. Add bootstrap and some css
 
